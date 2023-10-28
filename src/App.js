@@ -34,6 +34,9 @@ function App() {
       <p>new paragraph</p>
       <p>new paragraph again</p>
       <p>new test branch</p>
+      <div>
+        new div in main 
+      </div>
 
 
       <button onClick={increment}>add</button>
