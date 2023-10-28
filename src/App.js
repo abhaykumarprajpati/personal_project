@@ -19,6 +19,7 @@ function App() {
   }
 
   // const checkdata = countNumber(count)
+  // const checkdata = countNumber(count)
 
   const checkdata = useEffect(() => {
     return countNumber(count)
