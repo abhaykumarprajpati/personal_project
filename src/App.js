@@ -40,6 +40,9 @@ function App() {
       <div>
         master branch changes 
       </div>
+      <div>
+        push before pull
+      </div>
 
 
       <button onClick={increment}>add</button>
