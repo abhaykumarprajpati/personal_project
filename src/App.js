@@ -31,6 +31,7 @@ function App() {
       <h3>
         welcome to new website
       </h3>
+      <p>new paragraph</p>
 
       <button onClick={increment}>add</button>
       <p>{`count is ${count}`}</p>
